@@ -5,6 +5,8 @@
 2. find_largest_file_size.bat
 
 ### A. Edit this part in file 'find_largest_file_size.ps1'
+$PathToScan="<Your folder path to scan>"
+# *** Example ***
 $PathToScan="E:\"
 
 ### B. Run find_largest_file_size.bat
