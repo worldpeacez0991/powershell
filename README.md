@@ -1,13 +1,14 @@
-# Find your largest files in MB in your path to scan
+# Find your largest files in MB
 
 ## Prerequisites, download both files and place in a new folder;
-1. find_largest_file_size.ps1
-2. find_largest_file_size.bat
+1. File 'find_largest_file_size.ps1'
+2. File 'find_largest_file_size.bat'
+3. The directory of the file path to scan, i.e, the directory where you want to find your largest files.
 
 ### A. Edit this part in file 'find_largest_file_size.ps1'
 $PathToScan="<Your folder path to scan>"
 ### *** Example ***
-$PathToScan="E:\"
+$PathToScan="C:\Downloads"
 
 ### B. Run File 'find_largest_file_size.bat'
 
