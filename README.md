@@ -1,4 +1,4 @@
-# Find your large files in MB
+# Find your large files (in megabytes) for Windows
 
 ## Prerequisites, download both files and place in a new folder;
 1. File 'find_largest_file_size.ps1'
